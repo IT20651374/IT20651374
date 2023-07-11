@@ -1,9 +1,11 @@
 # Welcome to My GitHub Profile, Ruchini Irushika! 👋
 
-
 ## About Me
 
-Hi! I am Ruchini Irushika, currently pursuing a BSc (Hons) degree in Information Technology at Sri Lanka Institute of Information Technology, Malabe, Sri Lanka. I am in my 4th year, 1st semester of my studies. I have a passion for technology and enjoy exploring various domains within the field of IT.
+👋 Hi, I’m Ruchini Irushika.
+📝 I’m currently reading for BSc(Hons) in IT Specializing in IT. at Sri Lanka Institute of Information Technology(SLIIT).
+📝 I am in my 4th year, 1st semester of my studies.
+👀 I have a passion for technology and enjoy exploring various domains within the field of IT.
 
 ## 📫 How to Reach Me
 
